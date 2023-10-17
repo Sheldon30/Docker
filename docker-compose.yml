@@ -11,3 +11,4 @@ services:
       POSTGRES_DP: app
       POSTGRES_USER: app
       POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_RANDOM_ROOT_PASSWORD: yes
