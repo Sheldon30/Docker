@@ -12,4 +12,4 @@ services:
       POSTGRES_USER: app
       POSTGRES_PASSWORD: mysecretpassword
       POSTGRES_RANDOM_ROOT_PASSWORD: yes
-      POSTGRES_HOST_AUTH_METHOD: trust
+
